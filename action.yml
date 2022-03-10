@@ -1,5 +1,5 @@
-name: 'Issue Label Notifier'
-description: 'Notify individuals or teams based on issue labels.'
+name: 'Label Notifier'
+description: 'Notify individuals or teams based on labels.'
 inputs:
   token:
     description: 'The GitHub authentication token.'
